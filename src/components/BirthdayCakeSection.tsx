@@ -20,7 +20,7 @@ const BirthdayCakeSection: React.FC = () => {
         Make a Wish!
       </h2>
       <div className="flex justify-center items-center mb-8">
-        <img src="src\components\assets\cake.gif" alt="" width={300} height={300}/>
+        <img src="/cake.gif" alt="" width={300} height={300}/>
       </div>
       <p className="text-xl text-gray-700 mb-8">
         Make your wish and blow out the candle, make this year magical!
